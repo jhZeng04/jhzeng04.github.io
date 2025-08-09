@@ -120,4 +120,5 @@ export default ({ mode }) =>
         },
       },
     },
+    base: '/jhzeng04.github.io/',
   });
